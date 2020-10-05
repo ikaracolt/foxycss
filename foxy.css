@@ -5798,10 +5798,10 @@ span.fc-skeleton {
     [data-fc-sidecart] #fc .fc-fixed-button-left .fc-svg-icon {
       margin-right: 3px; }
     [data-fc-sidecart] #fc .fc-fixed-button-right .fc-btn-action {
-      background-color: #55aa3f;
+      background-color: #000;
       color: white;
-      background: -webkit-linear-gradient(top, #73b263 0%, #458c33 100%);
-      background: linear-gradient(to bottom, #73b263 0%, #458c33 100%); }
+      /*background: -webkit-linear-gradient(top, #73b263 0%, #458c33 100%);
+      background: linear-gradient(to bottom, #73b263 0%, #458c33 100%); }*/
   [data-fc-sidecart] #fc-cart {
     margin-top: 0;
     margin-bottom: 0;
