@@ -3955,10 +3955,10 @@
     padding-top: 10px;
     padding-bottom: 10px;
     border-color: #55aa3f;
-    background-color: #00a533;
+    background-color: ##000;
     color: white;
-    background: -webkit-linear-gradient(top, #73b263 0%, #458c33 100%);
-    background: linear-gradient(to bottom, #73b263 0%, #458c33 100%);
+    /*background: -webkit-linear-gradient(top, #73b263 0%, #458c33 100%);
+    background: linear-gradient(to bottom, #73b263 0%, #458c33 100%);*/
     /* W3C */
     text-shadow: 1px 1px 0px #327123; }
     #fc .fc-action--checkout--button:hover, #fc .fc-action--checkout--button:focus,
